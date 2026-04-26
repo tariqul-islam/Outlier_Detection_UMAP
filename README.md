@@ -39,7 +39,9 @@ The method identifies several types of dataset issues, including incorrect views
 
 ### ChestX-ray14
 
-![CHR14 Findings](media/Figure_CXR14_2.png)
+<p align="center">
+<img src="media/Figure_CXR14_2.png" alt="CXR14 Findings" width="50%">
+</p>
 
 **Outlier detection in the ChestX-ray14 dataset.** (a) 2-D embedding. Labeled clusters from (a) are: (b) Lateral x-rays which were not supposed to be in the dataset, (c) PA x-rays with borders, (d) AP x-rays with borders, and (e) cluster from a single patient.
 
@@ -63,7 +65,7 @@ The method identifies several types of dataset issues, including incorrect views
 
 ![Pre Training](media/different_networks.png)
 
-**Embedding of CheXpert dataset using different pre-trained models.** DenseNet-121 and ResNet-50 trained on ImageNet (left two) and ChestX-ray14 (right tow) datasets. Each yellow point represents an image with vertical artifact (from cluster e in Fig.~\ref{fig:CheXpert_complete}~(a)) indicating chest x-ray pre-trained models fail to identify these as outliers.
+**Embedding of CheXpert dataset using different pre-trained models.** DenseNet-121 and ResNet-50 trained on ImageNet (left two) and ChestX-ray14 (right tow) datasets. Each yellow point represents an image with vertical artifact indicating chest x-ray pre-trained models fail to identify these as outliers.
 
 
 ## Data
