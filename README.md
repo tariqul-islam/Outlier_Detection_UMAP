@@ -27,8 +27,9 @@ We apply this approach to large public radiological datasets, including:
 The method identifies several types of dataset issues, including incorrect views, corrupted images, acquisition artifacts, dynamic-range problems, and mislabeled radiographs.
 
 ## Method
-
+<p align="center">
 <img src="media/block_diagram.png" alt="block diagram" width="50%">
+</p>
 
 **Schematic of the outlier search algorithm.** Image features extracted from a DenseNet-121 neural network are projected onto a low-dimensional space (2-D plane) using UMAP.
 
