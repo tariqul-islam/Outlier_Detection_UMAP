@@ -4,7 +4,9 @@ This repository contains code and examples for the paper:
 
 > **Outlier Detection in Large Radiological Datasets using UMAP**
 > Mohammad Tariqul Islam and Jason W. Fleischer
+
 > MICCAI 2024 Workshop on Topology- and Graph-Informed Imaging Informatics (TGI3)
+
 > Paper link: [https://arxiv.org/abs/2407.21263](https://arxiv.org/abs/2407.21263)
 
 ## Overview
