@@ -28,7 +28,7 @@ The method identifies several types of dataset issues, including incorrect views
 
 ## Method
 
-![block_diagram](media/block_diagram.png)
+![block_diagram](media/block_diagram.png){width=50%}
 
 **Schematic of the outlier search algorithm.** Image features extracted from a DenseNet-121 neural network are projected onto a low-dimensional space (2-D plane) using UMAP.
 
