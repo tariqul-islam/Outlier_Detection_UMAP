@@ -44,7 +44,7 @@ The method identifies several types of dataset issues, including incorrect views
 
 ### CheXpert
 
-![CheXpert Findings](media/Figure_CHEXPERT_2.png)
+![CheXpert Findings](media/CHEXPERT_2.png)
 
 **Outlier detection in the CheXpert dataset.** (a) 2-D Embedding. Example images with (b) block artifacts, (c) noise, (d) improper dynamic range, (e) vertical artifacts, and (f) alignment issues.
 
@@ -60,7 +60,7 @@ The method identifies several types of dataset issues, including incorrect views
 
 ### Choosing Appropriate Pre-trained Network is Important
 
-![Pre Training](different_networks.png)
+![Pre Training](media/different_networks.png)
 
 **Embedding of CheXpert dataset using different pre-trained models.** DenseNet-121 and ResNet-50 trained on ImageNet (left two) and ChestX-ray14 (right tow) datasets. Each yellow point represents an image with vertical artifact (from cluster e in Fig.~\ref{fig:CheXpert_complete}~(a)) indicating chest x-ray pre-trained models fail to identify these as outliers.
 
