@@ -40,7 +40,7 @@ The method identifies several types of dataset issues, including incorrect views
 ### ChestX-ray14
 
 <p align="center">
-<img src="media/Figure_CXR14_2.png" alt="CXR14 Findings" width="50%">
+<img src="media/Figure_CXR14_2.png" alt="CXR14 Findings" width="70%">
 </p>
 
 **Outlier detection in the ChestX-ray14 dataset.** (a) 2-D embedding. Labeled clusters from (a) are: (b) Lateral x-rays which were not supposed to be in the dataset, (c) PA x-rays with borders, (d) AP x-rays with borders, and (e) cluster from a single patient.
